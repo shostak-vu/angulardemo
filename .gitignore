@@ -1,0 +1,18 @@
+
+/angularFront/node/*
+/angularFront/node_modules/*
+/angularFront/target/*
+/angularFront/dist/*
+
+
+/springBack/target
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+
